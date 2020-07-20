@@ -1,0 +1,28 @@
+body{
+    font-family: 'Itim', cursive;
+}
+.main{
+    background-color:pink;
+    height: 140px;
+    text-align: left;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}
+.cart{
+    margin-left: 1px;
+    height: 50px;
+    margin-top: 40px;
+}
+.account{
+    margin-left:1166px;
+    height: 50px;
+    margin-top: 40px;
+}
+.s1{
+    background-color:pink;
+    height: 90px;
+}
+.s1{
+    text-align: center;
+}
